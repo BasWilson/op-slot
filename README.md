@@ -1,5 +1,7 @@
-# op-slot
-## ✨ heads up ✨
+# 🔒 op-slot
+this is meant to be a very basic password manager for personal use.
+
+## ✨ heads up
 This whole project is meant to get me out of my web dev comfort zone of nodejs, ts, js, react and that whole stack. 
 so honestly, this is the messiest and most ugly code I've written in recent times, but I just wanted to see how python and swift ui work :)
 
